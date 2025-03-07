@@ -32,30 +32,25 @@ cd Secure-Electronic-Health-Records
 ```
 
 ###2️⃣ Install Dependencies
-sh
-Copy
-Edit
+```sh
 npm install --force
 npm install -g truffle
-
+```
 
 ###3️⃣ Start Local Blockchain (Ganache)
-sh
-Copy
-Edit
+```sh
 ganache-cli --deterministic
 or open Ganache GUI.
+```
 
 ###4️⃣ Compile & Deploy Smart Contracts
-sh
-Copy
-Edit
+```sh
 cd src
 truffle compile
 truffle migrate
+```
 
 ###5️⃣ Run the Frontend
-sh
-Copy
-Edit
+```sh
 npm start
+```
