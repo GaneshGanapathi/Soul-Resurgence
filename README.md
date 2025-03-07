@@ -30,3 +30,27 @@ This project is a **decentralized medical record system** that uses **blockchain
 git clone https://github.com/GaneshGanapathi/Soul-Resurgence.git
 cd Soul-Resurgence
 ```
+
+2️⃣ Install Dependencies
+```sh
+npm install --force
+npm install -g truffle
+```
+
+3️⃣ Start Local Blockchain (Ganache)
+```sh
+ganache-cli --deterministic
+or open Ganache GUI.
+```
+
+4️⃣ Compile & Deploy Smart Contracts
+```sh
+cd src
+truffle compile
+truffle migrate
+```
+
+5️⃣ Run the Frontend
+```sh
+npm start
+```
