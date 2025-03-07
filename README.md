@@ -30,27 +30,31 @@ This project is a **decentralized medical record system** that uses **blockchain
 git clone https://github.com/GaneshGanapathi/Secure-Electronic-Health-Records.git
 cd Secure-Electronic-Health-Records
 ```
-2️⃣ Install Dependencies
+
+###2️⃣ Install Dependencies
 sh
 Copy
 Edit
 npm install --force
 npm install -g truffle
-3️⃣ Start Local Blockchain (Ganache)
+
+
+###3️⃣ Start Local Blockchain (Ganache)
 sh
 Copy
 Edit
 ganache-cli --deterministic
 or open Ganache GUI.
 
-4️⃣ Compile & Deploy Smart Contracts
+###4️⃣ Compile & Deploy Smart Contracts
 sh
 Copy
 Edit
 cd src
 truffle compile
 truffle migrate
-5️⃣ Run the Frontend
+
+###5️⃣ Run the Frontend
 sh
 Copy
 Edit
