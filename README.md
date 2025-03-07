@@ -1,4 +1,4 @@
-# 🏥 Secure Electronic Health Records using Blockchain
+# 🏥 SouLResurgence
 
 ## 📌 Overview
 This project is a **decentralized medical record system** that uses **blockchain technology** to ensure **secure, immutable, and convenient access** to healthcare data. It allows patients and healthcare professionals to interact with medical records in a **transparent yet privacy-preserving** way.
@@ -27,5 +27,5 @@ This project is a **decentralized medical record system** that uses **blockchain
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/Secure-Electronic-Health-Records.git
+git clone https://github.com/GaneshGanapathi/Secure-Electronic-Health-Records.git
 cd Secure-Electronic-Health-Records
